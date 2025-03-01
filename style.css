@@ -867,7 +867,7 @@ footer p {
     margin-top: 15px;
 }
 
-.footer-section p:first-child {
+.footer-section h3 {
     font-weight: bold;
     color: white;
     margin-bottom: 8px;
