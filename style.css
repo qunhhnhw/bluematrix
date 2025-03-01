@@ -851,6 +851,7 @@ footer {
 footer p {
     color: #fffcfc;
     margin: 5px 0;
+    text-align: center;
 }
 
 .footer-container {
