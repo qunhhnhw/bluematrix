@@ -1000,7 +1000,7 @@ footer p {
                 text-align: center; 
     }
     .content h3, p {
-            
+            text-align:left;
             padding-left: 20px;
     }
     .about .row {
