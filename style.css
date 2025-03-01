@@ -957,6 +957,10 @@ footer p {
         flex-direction: column;
         text-align: center;
     }
+    p, div, td, th {
+    text-align: left ;
+}
+
     .team-info {
         width: 100%;
         text-align: center;
